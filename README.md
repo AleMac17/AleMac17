@@ -1,4 +1,4 @@
-![image](https://github.com/AleMac17/Profile/assets/84101790/70e8a155-9507-4cd0-beab-cf9c2b5727ff)# Profile
+# Profile
 <div id="header" align="center">
   <h1>Hello my name is Alejandro Maciá // Hola mi nombre es Alejandro Maciá</h1>
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250"/>
@@ -11,7 +11,7 @@
 
 <div>
   <h2>About me</h2>
-  <p>I'm fullstack developer from Argentina <img src="https://www.flaticon.com/free-icon/flag_10598457?term=argentina&page=1&position=23&origin=tag&related_id=10598457"/></p>
+  <p>I'm fullstack developer from Argentina <img src="https://github.com/AleMac17/Profile/assets/84101790/70e8a155-9507-4cd0-beab-cf9c2b5727ff" width="50"/></p>
 </div>
 
 ### 🛠 &nbsp;Languages and Tools :
