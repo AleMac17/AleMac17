@@ -6,12 +6,12 @@
   <img src="https://github.com/AleMac17/Profile/assets/84101790/ee32a612-755a-4b8f-b1c6-408512146bb7" width="50"/>
 </div>
 <div id="header" align="center">
-  <h1>Hello my name is Alejandro Maciá</h1>
+  <h1>Hello my name is Alejandro Maciá </h1>
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alejandro-maci%C3%A1/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
