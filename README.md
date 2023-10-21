@@ -1,9 +1,11 @@
 <body>
 <div align="end">
   <a href="https://github.com/AleMac17/Profile/blob/main/README.es.md">
-    <img src="https://github.com/AleMac17/Profile/assets/84101790/059e564b-ef4a-43e6-9a27-7183cfbf9564" width="50"/>
+    <img src="https://github.com/AleMac17/Profile/assets/84101790/40be9ee4-9455-4a06-8cea-2cf32e3faabb" width="50" />
   </a>
-  <img src="https://github.com/AleMac17/Profile/assets/84101790/ee32a612-755a-4b8f-b1c6-408512146bb7" width="50"/>
+  <a href="https://github.com/AleMac17/Profile/blob/main/README.es.md">
+    <img src="https://github.com/AleMac17/Profile/assets/84101790/ee32a612-755a-4b8f-b1c6-408512146bb7" width="50" />
+  </a>
 </div>
 <div id="header" align="center">
   <h1>Hello my name is Alejandro Maciá </h1>
