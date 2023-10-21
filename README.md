@@ -1,6 +1,12 @@
 <body>
+<div align="end">
+  <a href="https://github.com/AleMac17/Profile/blob/main/README.es.md">
+    <img src="https://github.com/AleMac17/Profile/assets/84101790/059e564b-ef4a-43e6-9a27-7183cfbf9564" width="50"/>
+  </a>
+  <img src="https://github.com/AleMac17/Profile/assets/84101790/ee32a612-755a-4b8f-b1c6-408512146bb7" width="50"/>
+</div>
 <div id="header" align="center">
-  <h1>Hello my name is Alejandro Maciá // Hola mi nombre es Alejandro Maciá</h1>
+  <h1>Hello my name is Alejandro Maciá</h1>
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
