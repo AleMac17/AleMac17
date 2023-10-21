@@ -11,7 +11,7 @@
 
 <div>
   <h2>About me</h2>
-  <p>I'm fullstack developer from Argentina <img src="https://www.flaticon.com/free-icon/flag_10598457?term=argentina&page=1&position=23&origin=tag&related_id=10598457"></p>
+  <p>I'm fullstack developer from Argentina <img src="https://www.flaticon.com/free-icon/flag_10598457?term=argentina&page=1&position=23&origin=tag&related_id=10598457"/></p>
 </div>
 
 ### 🛠 &nbsp;Languages and Tools :
